@@ -2,7 +2,7 @@
  
  Integrantes:
    Maura Aurora Silva Cantu - 1834318
-   Erik Noe Medina Hernandez -
+   Erik Noe Medina Hernandez -1803889
    
    Descripcion de la aplicacion
     Haremos una pagina enfocada en los creadores de juegos indie, sera una plataforma para que creadores de videojuegos muestren sus portafolios, avances y juegos terminados, 
